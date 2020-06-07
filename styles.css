@@ -9,7 +9,7 @@ body {
   background-color: black;
   color: white;
 }
-  .channel1 {
+.channel1 {
   background-image: url("1.png");
   background-repeat: no-repeat;
   background-size: cover;
@@ -18,7 +18,7 @@ body {
   padding-bottom:150px;
 }
 .channel2 {
-  background-image: url("2.jpg");
+  background-image: url("2.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -26,7 +26,7 @@ body {
   padding-bottom:150px;
 }
 .channel3 {
-  background-image: url("3.jpg");
+  background-image: url("3.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -42,7 +42,7 @@ body {
   padding-bottom:150px;
 }
 .channel5 {
-  background-image: url("5.jpg");
+  background-image: url("5.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -74,7 +74,7 @@ body {
   padding-bottom:150px;
 }
 .channel9 {
-  background-image: url("9.jpg");
+  background-image: url("9.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -98,7 +98,7 @@ body {
   padding-bottom:150px;
 }
 .channel12 {
-  background-image: url("12.jpg");
+  background-image: url("12.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -114,7 +114,7 @@ body {
   padding-bottom:150px;
 }
 .channel14 {
-  background-image: url("14.jpg");
+  background-image: url("14.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -146,7 +146,7 @@ body {
   padding-bottom:150px;
 }
 .channel18 {
-  background-image: url("18.jpg");
+  background-image: url("18.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -154,7 +154,7 @@ body {
   padding-bottom:150px;
 }
 .channel19 {
-  background-image: url("19.jpg");
+  background-image: url("19.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -162,7 +162,7 @@ body {
   padding-bottom:150px;
 }
 .channel20 {
-  background-image: url("20.jpg");
+  background-image: url("20.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -194,7 +194,7 @@ body {
   padding-bottom:150px;
 }
 .channel24 {
-  background-image: url("24.jpg");
+  background-image: url("24.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -202,7 +202,7 @@ body {
   padding-bottom:150px;
 }
 .channel25 {
-  background-image: url("25.jpg");
+  background-image: url("25.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -218,7 +218,7 @@ body {
   padding-bottom:150px;
 }
 .channel27 {
-  background-image: url("27.jpg");
+  background-image: url("27.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -234,7 +234,7 @@ body {
   padding-bottom:150px;
 }
 .channel29 {
-  background-image: url("29.jpg");
+  background-image: url("29.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -242,7 +242,7 @@ body {
   padding-bottom:150px;
 }
 .channel30 {
-  background-image: url("30.jpg");
+  background-image: url("30.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -266,7 +266,7 @@ body {
   padding-bottom:150px;
 }
 .channel33 {
-  background-image: url("33.jpg");
+  background-image: url("33.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -274,7 +274,7 @@ body {
   padding-bottom:150px;
 }
 .channel34 {
-  background-image: url("34.jpg");
+  background-image: url("34.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -282,7 +282,7 @@ body {
   padding-bottom:150px;
 }
 .channel35 {
-  background-image: url("35.jpg");
+  background-image: url("35.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -314,7 +314,1903 @@ body {
   padding-bottom:150px;
 }
 .channel39 {
-  background-image: url("39.jpg");
+  background-image: url("39.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel40 {
+  background-image: url("40.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel41 {
+  background-image: url("41.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel42 {
+  background-image: url("42.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel43 {
+  background-image: url("43.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel44 {
+  background-image: url("44.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel45 {
+  background-image: url("45.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel46 {
+  background-image: url("46.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel47 {
+  background-image: url("47.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel48 {
+  background-image: url("48.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel49 {
+  background-image: url("49.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel50 {
+  background-image: url("50.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel51 {
+  background-image: url("51.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel52 {
+  background-image: url("52.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel53 {
+  background-image: url("53.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel54 {
+  background-image: url("54.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel55 {
+  background-image: url("55.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel56 {
+  background-image: url("56.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel57 {
+  background-image: url("57.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel58 {
+  background-image: url("58.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel59 {
+  background-image: url("59.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel60 {
+  background-image: url("60.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel61 {
+  background-image: url("61.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel62 {
+  background-image: url("62.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel63 {
+  background-image: url("63.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel64 {
+  background-image: url("64.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel65 {
+  background-image: url("65.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel66 {
+  background-image: url("66.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel67 {
+  background-image: url("67.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel68 {
+  background-image: url("68.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel69 {
+  background-image: url("69.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel70 {
+  background-image: url("70.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel71 {
+  background-image: url("71.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel72 {
+  background-image: url("72.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel73 {
+  background-image: url("73.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel74 {
+  background-image: url("74.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel75 {
+  background-image: url("75.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel76 {
+  background-image: url("76.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel77 {
+  background-image: url("77.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel78 {
+  background-image: url("78.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel79 {
+  background-image: url("79.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel80 {
+  background-image: url("80.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel81 {
+  background-image: url("81.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel82 {
+  background-image: url("82.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel83 {
+  background-image: url("83.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel84 {
+  background-image: url("84.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel85 {
+  background-image: url("85.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel86 {
+  background-image: url("86.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel87 {
+  background-image: url("87.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel88 {
+  background-image: url("88.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel89 {
+  background-image: url("89.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel90 {
+  background-image: url("90.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel91 {
+  background-image: url("91.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel92 {
+  background-image: url("92.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel93 {
+  background-image: url("93.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel94 {
+  background-image: url("94.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel95 {
+  background-image: url("95.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel96 {
+  background-image: url("96.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel97 {
+  background-image: url("97.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel98 {
+  background-image: url("98.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel99 {
+  background-image: url("99.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel100 {
+  background-image: url("100.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel101 {
+  background-image: url("101.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel102 {
+  background-image: url("102.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel103 {
+  background-image: url("103.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel104 {
+  background-image: url("104.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel105 {
+  background-image: url("105.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel106 {
+  background-image: url("106.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel107 {
+  background-image: url("107.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel108 {
+  background-image: url("108.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel109 {
+  background-image: url("109.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel110 {
+  background-image: url("110.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel111 {
+  background-image: url("111.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel112 {
+  background-image: url("112.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel113 {
+  background-image: url("113.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel114 {
+  background-image: url("114.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel115 {
+  background-image: url("115.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel116 {
+  background-image: url("116.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel117 {
+  background-image: url("117.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel118 {
+  background-image: url("118.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel119 {
+  background-image: url("119.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel120 {
+  background-image: url("120.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel121 {
+  background-image: url("121.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel122 {
+  background-image: url("122.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel123 {
+  background-image: url("123.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel124 {
+  background-image: url("124.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel125 {
+  background-image: url("125.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel126 {
+  background-image: url("126.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel127 {
+  background-image: url("127.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel128 {
+  background-image: url("128.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel129 {
+  background-image: url("129.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel130 {
+  background-image: url("130.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel131 {
+  background-image: url("131.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel132 {
+  background-image: url("132.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel133 {
+  background-image: url("133.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel134 {
+  background-image: url("134.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel135 {
+  background-image: url("135.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel136 {
+  background-image: url("136.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel137 {
+  background-image: url("137.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel138 {
+  background-image: url("138.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel139 {
+  background-image: url("139.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel140 {
+  background-image: url("140.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel141 {
+  background-image: url("141.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel142 {
+  background-image: url("142.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel143 {
+  background-image: url("143.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel144 {
+  background-image: url("144.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel145 {
+  background-image: url("145.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel146 {
+  background-image: url("146.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel147 {
+  background-image: url("147.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel148 {
+  background-image: url("148.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel149 {
+  background-image: url("149.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel150 {
+  background-image: url("150.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel151 {
+  background-image: url("151.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel152 {
+  background-image: url("152.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel153 {
+  background-image: url("153.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel154 {
+  background-image: url("154.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel155 {
+  background-image: url("155.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel156 {
+  background-image: url("156.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel157 {
+  background-image: url("157.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel158 {
+  background-image: url("158.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel159 {
+  background-image: url("159.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel160 {
+  background-image: url("160.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel161 {
+  background-image: url("161.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel162 {
+  background-image: url("162.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel163 {
+  background-image: url("163.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel164 {
+  background-image: url("164.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel165 {
+  background-image: url("165.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel166 {
+  background-image: url("166.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel167 {
+  background-image: url("167.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel168 {
+  background-image: url("168.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel169 {
+  background-image: url("169.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel170 {
+  background-image: url("170.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel171 {
+  background-image: url("171.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel172 {
+  background-image: url("172.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel173 {
+  background-image: url("173.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel174 {
+  background-image: url("174.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel175 {
+  background-image: url("175.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel176 {
+  background-image: url("176.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel177 {
+  background-image: url("177.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel178 {
+  background-image: url("178.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel179 {
+  background-image: url("179.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel180 {
+  background-image: url("180.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel181 {
+  background-image: url("181.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel182 {
+  background-image: url("182.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel183 {
+  background-image: url("183.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel184 {
+  background-image: url("184.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel185 {
+  background-image: url("185.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel186 {
+  background-image: url("186.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel187 {
+  background-image: url("187.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel188 {
+  background-image: url("188.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel189 {
+  background-image: url("189.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel190 {
+  background-image: url("190.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel191 {
+  background-image: url("191.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel192 {
+  background-image: url("192.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel193 {
+  background-image: url("193.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel194 {
+  background-image: url("194.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel195 {
+  background-image: url("195.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel196 {
+  background-image: url("196.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel197 {
+  background-image: url("197.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel198 {
+  background-image: url("198.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel199 {
+  background-image: url("199.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel200 {
+  background-image: url("200.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel201 {
+  background-image: url("201.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel202 {
+  background-image: url("202.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel203 {
+  background-image: url("203.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel204 {
+  background-image: url("204.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel205 {
+  background-image: url("205.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel206 {
+  background-image: url("206.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel207 {
+  background-image: url("207.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel208 {
+  background-image: url("208.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel209 {
+  background-image: url("209.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel210 {
+  background-image: url("210.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel211 {
+  background-image: url("211.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel212 {
+  background-image: url("212.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel213 {
+  background-image: url("213.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel214 {
+  background-image: url("214.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel215 {
+  background-image: url("215.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel216 {
+  background-image: url("216.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel217 {
+  background-image: url("217.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel218 {
+  background-image: url("218.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel219 {
+  background-image: url("219.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel220 {
+  background-image: url("220.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel221 {
+  background-image: url("221.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel222 {
+  background-image: url("222.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel223 {
+  background-image: url("223.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel224 {
+  background-image: url("224.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel225 {
+  background-image: url("225.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel226 {
+  background-image: url("226.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel227 {
+  background-image: url("227.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel228 {
+  background-image: url("228.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel229 {
+  background-image: url("229.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel230 {
+  background-image: url("230.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel231 {
+  background-image: url("231.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel232 {
+  background-image: url("232.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel233 {
+  background-image: url("233.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel234 {
+  background-image: url("234.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel235 {
+  background-image: url("235.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel236 {
+  background-image: url("236.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel237 {
+  background-image: url("237.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel238 {
+  background-image: url("238.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel239 {
+  background-image: url("239.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel240 {
+  background-image: url("240.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel241 {
+  background-image: url("241.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel242 {
+  background-image: url("242.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel243 {
+  background-image: url("243.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel244 {
+  background-image: url("244.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel245 {
+  background-image: url("245.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel246 {
+  background-image: url("246.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel247 {
+  background-image: url("247.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel248 {
+  background-image: url("248.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel249 {
+  background-image: url("249.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel250 {
+  background-image: url("250.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel251 {
+  background-image: url("251.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel252 {
+  background-image: url("252.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel253 {
+  background-image: url("253.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel254 {
+  background-image: url("254.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel255 {
+  background-image: url("255.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel256 {
+  background-image: url("256.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel257 {
+  background-image: url("257.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel258 {
+  background-image: url("258.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel259 {
+  background-image: url("259.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel260 {
+  background-image: url("260.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel261 {
+  background-image: url("260.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel261 {
+  background-image: url("261.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel262 {
+  background-image: url("262.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel263 {
+  background-image: url("263.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel264 {
+  background-image: url("264.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel265 {
+  background-image: url("265.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel266 {
+  background-image: url("266.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel267 {
+  background-image: url("267.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel268 {
+  background-image: url("268.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel269 {
+  background-image: url("269.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel270 {
+  background-image: url("270.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel271 {
+  background-image: url("271.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel272 {
+  background-image: url("272.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel273 {
+  background-image: url("273.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel274 {
+  background-image: url("274.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.channel275 {
+  background-image: url("275.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
